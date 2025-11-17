@@ -25,5 +25,5 @@ It is adapted from a Leash Bio tutorial and reorganized for clarity, reproducibi
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/Nonakhan/.git
+git clone https://github.com/Nonakhan/Graph-Neural-Networks-for-Small-Molecule-Protein-Binding.git
 cd molecular-gnns
