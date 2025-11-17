@@ -3,7 +3,8 @@
 # Molecular Graphs & Graph Neural Networks (GNNs) — Tutorial Notebook
 
 This repository contains a tutorial-style Jupyter notebook introducing **molecular graphs**, **chemical featurization**, and **graph neural networks (GNNs)** for molecular property prediction.  
-It is adapted from a Leash Bio tutorial and reorganized for clarity, reproducibility, and demonstration purposes.
+It is adapted from a Leash Bio tutorial from the NeurIPS 2024 competiton 'Predict New Medicine with BELKA' and reorganized for clarity, reproducibility, and demonstration purposes.
+The original competition can be found here: https://www.kaggle.com/code/agastyapulapaka/leash-tutorial-molecular-graphs-and-gnns
 
 ---
 
